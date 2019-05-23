@@ -1,0 +1,1 @@
+CreateObject("Wscript.Shell").Run "node RazerWatch.js", 0
